@@ -72,3 +72,9 @@
 <img src="https://raw.githubusercontent.com/aqilnxt/aqilnxt/output/snake.svg" alt="Snake animation" />
 
 ---
+
+## 📦 Repository Contribution Chart
+
+<img src="https://github-contributor-stats.vercel.app/api?username=aqilnxt&theme=dark&combine_all_yearly_contributions=true&chart_type=repo" />
+
+---
