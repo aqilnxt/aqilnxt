@@ -1,4 +1,4 @@
-![aqilnxt](img/github-header-image(1).png)
+![aqilnxt](img/github-header-image.png)
 
 
 #### 🌐 Socials:
